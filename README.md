@@ -1,7 +1,5 @@
 ### Hi there, I'm Isha!
 
-<!--
-**Ishasharmax/Ishasharmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm a senior at Ithaca College studying Computer Science. I use She/her/hers pronouns.
 - 🔭 I’m currently working on building my Personal Portfolio
