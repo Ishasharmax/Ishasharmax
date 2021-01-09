@@ -24,8 +24,10 @@ I'm a senior at Ithaca College studying Computer Science.
 
 📄 Know about my experiences through my [resume](https://drive.google.com/file/d/1UP0E8ogAgc_46SwNbnWsNxtYljqFGWuW/view?usp=sharing)
 
-<a href="https://www.qries.com/">
-  <img src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" width="50" height="50"/>
+### Connect with me:
+
+<a href="https://www.linkedin.com/in/ishasharmax/">
+  <img src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" width="45" height="45"/>
 </a>
 
 <a href="https://dribbble.com/ishasharmax">
