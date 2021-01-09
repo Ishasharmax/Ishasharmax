@@ -3,10 +3,26 @@
 ![](https://komarev.com/ghpvc/?username=ishasharmax&color=red)
 
 I'm a senior at Ithaca College studying Computer Science. 
-- I’m currently working on building my Personal Portfolio
-- I’m currently learning to master my skills of Data Science, React Native, & SQL.
-- Fields I'm Interested In: Product Mngmt., Data Science, Machine Learning, UX/UI, Full Stack Dev., Mobile Dev.
-- Languages & Tools I Enjoy Using: Python, Javascript, Git
+
+🔭 I’m currently working on building my Personal Portfolio
+
+🌱 I’m currently learning to master my skills of Data Science, Mobile development, & Frontend Development.
+
+🤝 I’m looking for help with New Project ideas for iOS App
+ 
+🙋 Languages & Tools I Enjoy Using are Python, React, Javascript, Git
+ 
+💡 Fields I'm Interested In: Product Mngmt., Data Science, Machine Learning, UX/UI, Full Stack Dev., Mobile Dev.
+
+💻 All of my projects are available at https://github.com/ishasharmax
+
+📝 I regularly write articles on https://ishasharmax.medium.com/
+
+💬 Ask me about iOS
+
+📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/ishasharmax/) or email me @ 1999sharma19@gmail.com
+
+📄 Know about my experiences through my [resume](https://drive.google.com/file/d/1UP0E8ogAgc_46SwNbnWsNxtYljqFGWuW/view?usp=sharing)
 
 <a href="https://www.qries.com/">
   <img src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" width="50" height="50"/>
