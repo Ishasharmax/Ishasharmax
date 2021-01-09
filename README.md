@@ -28,10 +28,6 @@ I'm a senior at Ithaca College studying Computer Science.
   <img src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" width="50" height="50"/>
 </a>
 
-<a href="https://ishasharmax.medium.com">
-  <img scr="https://assets.stickpng.com/images/5841c47ba6515b1e0ad75aa3.png" width="50" height="50"/>
-</a>
-
 <a href="https://dribbble.com/ishasharmax">
   <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/89-dribbble-512.png" width="50" height="50"/>
 </a>
@@ -41,7 +37,7 @@ I'm a senior at Ithaca College studying Computer Science.
 </a>
 
 <a href="https://twitter.com/ishasharmax">
-  <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="50" height="50"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="45" height="45"/>
 </a>
 
 <a href="https://www.hackerrank.com/ishasharmax?hr_r=1">
