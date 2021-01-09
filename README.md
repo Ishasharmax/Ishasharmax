@@ -18,8 +18,6 @@ I'm a senior at Ithaca College studying Computer Science.
 
 📝 I regularly write articles on https://ishasharmax.medium.com/
 
-💬 Ask me about iOS
-
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/ishasharmax/) or email me @ 1999sharma19@gmail.com
 
 📄 Know about my experiences through my [resume](https://drive.google.com/file/d/1UP0E8ogAgc_46SwNbnWsNxtYljqFGWuW/view?usp=sharing)
