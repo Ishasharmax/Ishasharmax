@@ -8,6 +8,8 @@ I'm a senior at Ithaca College studying Computer Science.
 - Fields I'm Interested In: Product Mngmt., Data Science, Machine Learning, UX/UI, Full Stack Dev., Mobile Dev.
 - Languages & Tools I Enjoy Using: Python, Javascript, Git
 
-[![LinkedIn](https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png | width=100)](https://www.linkedin.com/in/ishasharmax/)
+<img href="https://www.linkedin.com/in/ishasharmax/" src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" width="100" height="100"/>
+
+
 [![Medium](https://cdn-images-1.medium.com/max/1200/1*6_fgYnisCa9V21mymySIvA.png | width=100)](https://ishasharmax.medium.com)
 [![Dribbble](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/89-dribbble-512.png | width=100)](https://dribbble.com/ishasharmax)
