@@ -46,7 +46,8 @@ I'm a senior at Ithaca College studying Computer Science.
   <img src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" width="50" height="50"/>
 </a>
 
-[![Isha's github stats](https://github-readme-stats.vercel.app/api?username=ishasharmax)](https://github.com/ishasharmax/github-readme-stats)
+
+[![Isha's github stats](https://github-readme-stats.vercel.app/api?username=ishasharmax&show_icons=true&theme=radical)](https://github.com/ishasharmax/github-readme-stats)
 
 
 
