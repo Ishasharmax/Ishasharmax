@@ -1,5 +1,6 @@
 ### Hi there, I'm Isha (she/her)
 
+![](https://komarev.com/ghpvc/?username=ishasharmax&color=red)
 
 I'm a senior at Ithaca College studying Computer Science. 
 - I’m currently working on building my Personal Portfolio
