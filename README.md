@@ -25,7 +25,7 @@ I'm a senior at Ithaca College studying Computer Science.
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/ishasharmax/">
-  <img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="45" height="45"/>
+  <img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="50" height="50"/>
 </a>
 
 <a href="https://dribbble.com/ishasharmax">
