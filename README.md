@@ -25,11 +25,11 @@ I'm a senior at Ithaca College studying Computer Science.
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/ishasharmax/">
-  <img src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" width="45" height="45"/>
+  <img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="45" height="45"/>
 </a>
 
 <a href="https://dribbble.com/ishasharmax">
-  <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/89-dribbble-512.png" width="50" height="50"/>
+  <img src="https://www.flaticon.com/svg/static/icons/svg/174/174844.svg" width="50" height="50"/>
 </a>
 
 <a href="https://stackoverflow.com/users/12647721/coder101">
@@ -37,11 +37,15 @@ I'm a senior at Ithaca College studying Computer Science.
 </a>
 
 <a href="https://twitter.com/ishasharmax">
-  <img src="https://www.flaticon.com/svg/static/icons/svg/174/174876.svg" width="45" height="45"/>
+  <img src="https://www.flaticon.com/svg/static/icons/svg/174/174876.svg" width="50" height="50"/>
 </a>
 
 <a href="https://www.hackerrank.com/ishasharmax?hr_r=1">
   <img src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" width="50" height="50"/>
+</a>
+
+<a href="https://www.youtube.com/channel/UC15YCooagMzCqsLULH7r8Pg">
+  <img src="https://www.flaticon.com/svg/static/icons/svg/174/174883.svg" width="50" height="50"/>
 </a>
 
 ### My stats
