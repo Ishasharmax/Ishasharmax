@@ -9,13 +9,35 @@ I'm a senior at Ithaca College studying Computer Science.
 - Languages & Tools I Enjoy Using: Python, Javascript, Git
 
 <a href="https://www.qries.com/">
-  <img src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" width="60" height="60"/>
+  <img src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" width="50" height="50"/>
 </a>
 
 <a href="https://ishasharmax.medium.com">
-  <img scr="https://cdn-images-1.medium.com/max/1200/1*6_fgYnisCa9V21mymySIvA.png" width="60" height="60"/>
+  <img scr="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Xq4YuEeDwHCKo7UHLnlMz-TamddCQNzjzw&usqp=CAU" width="50" height="50"/>
 </a>
 
 <a href="https://dribbble.com/ishasharmax">
-  <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/89-dribbble-512.png" width="60" height="60"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/89-dribbble-512.png" width="50" height="50"/>
 </a>
+
+<a href="https://stackoverflow.com/users/12647721/coder101">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width="50" height="50"/>
+</a>
+
+<a href="https://twitter.com/ishasharmax">
+  <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="50" height="50"/>
+</a>
+
+<a href="https://soundcloud.com/isha-sharma-xx">
+  <img src="https://edm.com/.image/t_share/MTU5NDY5Nzk2NTUzOTI1OTA1/soundcloud.png" width="50" height="50"/>
+</a>
+
+<a href="https://www.hackerrank.com/ishasharmax?hr_r=1">
+  <img src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" width="50" height="50"/>
+</a>
+
+
+
+
+
+
