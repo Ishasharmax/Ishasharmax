@@ -33,7 +33,7 @@ I'm a senior at Ithaca College studying Computer Science.
 </a>
 
 <a href="https://stackoverflow.com/users/12647721/coder101">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width="50" height="50"/>
+  <img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111628.svg" width="50" height="50"/>
 </a>
 
 <a href="https://twitter.com/ishasharmax">
@@ -41,7 +41,7 @@ I'm a senior at Ithaca College studying Computer Science.
 </a>
 
 <a href="https://www.hackerrank.com/ishasharmax?hr_r=1">
-  <img src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" width="50" height="50"/>
+  <img src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" width="55" height="55"/>
 </a>
 
 <a href="https://www.youtube.com/channel/UC15YCooagMzCqsLULH7r8Pg">
