@@ -37,7 +37,7 @@ I'm a senior at Ithaca College studying Computer Science.
 </a>
 
 <a href="https://twitter.com/ishasharmax">
-  <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="45" height="45"/>
+  <img src="https://www.flaticon.com/svg/static/icons/svg/174/174876.svg" width="45" height="45"/>
 </a>
 
 <a href="https://www.hackerrank.com/ishasharmax?hr_r=1">
