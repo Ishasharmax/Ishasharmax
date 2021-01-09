@@ -13,7 +13,7 @@ I'm a senior at Ithaca College studying Computer Science.
 </a>
 
 <a href="https://ishasharmax.medium.com">
-  <img scr="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Xq4YuEeDwHCKo7UHLnlMz-TamddCQNzjzw&usqp=CAU" width="50" height="50"/>
+  <img scr="https://assets.stickpng.com/images/5841c47ba6515b1e0ad75aa3.png" width="50" height="50"/>
 </a>
 
 <a href="https://dribbble.com/ishasharmax">
@@ -29,11 +29,11 @@ I'm a senior at Ithaca College studying Computer Science.
 </a>
 
 <a href="https://soundcloud.com/isha-sharma-xx">
-  <img src="https://edm.com/.image/t_share/MTU5NDY5Nzk2NTUzOTI1OTA1/soundcloud.png" width="50" height="50"/>
+  <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c537.png" width="50" height="50"/>
 </a>
 
 <a href="https://www.hackerrank.com/ishasharmax?hr_r=1">
-  <img src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" width="50" height="50"/>
+  <img src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" width="60" height="60"/>
 </a>
 
 
