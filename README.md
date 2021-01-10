@@ -20,7 +20,7 @@ I'm a senior at Ithaca College studying Computer Science.
 
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/ishasharmax/) or email me @ 1999sharma19@gmail.com
 
-📄 Know about my experiences through my [resume](https://drive.google.com/file/d/1UP0E8ogAgc_46SwNbnWsNxtYljqFGWuW/view?usp=sharing)
+📄 Know about my experiences through my [resume](https://drive.google.com/file/d/10zc5ZupVe-jj7Vwj63GFu35awLIip_B8/view?usp=sharing)
 
 ### Connect with me:
 
