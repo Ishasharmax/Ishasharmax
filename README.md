@@ -44,10 +44,6 @@ I'm a senior at Ithaca College studying Computer Science.
   <img src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" width="55" height="55"/>
 </a>
 
-<a href="https://www.youtube.com/channel/UC15YCooagMzCqsLULH7r8Pg">
-  <img src="https://www.flaticon.com/svg/static/icons/svg/174/174883.svg" width="50" height="50"/>
-</a>
-
 ### My stats
 
 [![Isha's github stats](https://github-readme-stats.vercel.app/api?username=ishasharmax&show_icons=true&theme=dark)](https://github.com/ishasharmax/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishasharmax&layout=compact)](https://github.com/ishasharmax/github-readme-stats)
