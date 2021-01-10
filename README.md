@@ -4,7 +4,7 @@
 
 I'm a senior at Ithaca College studying Computer Science. 
 
-🔭 I’m currently working on building my Personal Portfolio
+🔭 I’m currently working on building generative systems to create music & art
 
 🌱 I’m currently learning to master my skills of Data Science, Mobile development, & Frontend Development.
 
