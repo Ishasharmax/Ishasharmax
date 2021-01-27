@@ -6,7 +6,7 @@ I'm a senior at Ithaca College studying Computer Science.
 
 🔭 I’m currently working on building generative systems to create music & art
 
-🌱 I’m currently learning to master my skills of Data Science, Mobile development, & Frontend Development.
+🌱 I’m currently learning to master my skills of Data Science, UX/UI, & SWE.
 
 🤝 I’m looking for help with New Project ideas for iOS App
  
