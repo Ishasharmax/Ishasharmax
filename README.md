@@ -45,8 +45,6 @@ I'm a senior at Ithaca College studying Computer Science.
   <img src="https://www.flaticon.com/svg/static/icons/svg/174/174844.svg" width="38" height="38"/>
 </a>
   </p>
-  
-  [![HitCount](http://hits.dwyl.com/ishasharmax/Generative_Art.svg)](http://hits.dwyl.com/ishasharmax/Generative_Art)
-  
+    
 <img src="web1.png" alt="End image">
 
