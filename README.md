@@ -1,5 +1,7 @@
 ### Hi there, I'm Isha (she/her)
 
+
+
 ![](https://komarev.com/ghpvc/?username=ishasharmax&color=red)
 
 I'm a senior at Ithaca College studying Computer Science. 
@@ -58,10 +60,15 @@ I'm a senior at Ithaca College studying Computer Science.
 
 
 
+<a href="https://ibb.co/1dcH4TV"><img src="https://i.ibb.co/1dcH4TV/Web-1280-1das.png" alt="Web-1280-1das" border="0"></a> 
+
+<a href="https://ibb.co/KhgF26r"><img src="https://i.ibb.co/KhgF26r/Web-1280-1-copy.png" alt="Web-1280-1-copy" border="0"></a>
 
 
+<img src="https://ibb.co/1dcH4TV" alt="Hero image">
 
-<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/hero.svg" alt="Hero image">
+<img src="https://ibb.co/KhgF26r" alt="End image">
+
 
 I like experimenting with new technologies, building small projects, and occassionally joining hackathons. ✨
 
