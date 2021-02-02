@@ -30,23 +30,21 @@ I'm a senior at Ithaca College studying Computer Science.
 
   <p align="center"><b>Connect with me</b></p>
 
-  <p align="center"><i>Let's connect and chat! Open to anything under the sun.</i></p>
-
 <p align="center">
     <a href="https://www.linkedin.com/in/ishasharmax/">
-  <img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="50" height="50"/>
+  <img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="40" height="40"/>
 </a>
    <a href="https://stackoverflow.com/users/12647721/coder101">
-  <img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111628.svg" width="50" height="50"/>
+  <img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111628.svg" width="40" height="40"/>
 </a>
 <a href="https://twitter.com/ishasharmax">
-  <img src="https://www.flaticon.com/svg/static/icons/svg/174/174876.svg" width="50" height="50"/>
+  <img src="https://www.flaticon.com/svg/static/icons/svg/174/174876.svg" width="40" height="40"/>
 </a>
 <a href="https://www.hackerrank.com/ishasharmax?hr_r=1">
-  <img src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" width="55" height="55"/>
+  <img src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" width="50" height="50"/>
 </a>
 <a href="https://dribbble.com/ishasharmax">
-  <img src="https://www.flaticon.com/svg/static/icons/svg/174/174844.svg" width="50" height="50"/>
+  <img src="https://www.flaticon.com/svg/static/icons/svg/174/174844.svg" width="38" height="38"/>
 </a>
   </p>
   
