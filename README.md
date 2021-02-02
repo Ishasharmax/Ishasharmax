@@ -46,15 +46,16 @@ I'm a senior at Ithaca College studying Computer Science.
 
 ### My stats
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-
-
 [![Isha's github stats](https://github-readme-stats.vercel.app/api?username=ishasharmax&show_icons=true&theme=dark)](https://github.com/ishasharmax/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishasharmax&layout=compact)](https://github.com/ishasharmax/github-readme-stats)
 
 
 
 
-
+- name: add social icons
+  uses: elangosundar/social-ai@master
+  with:
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    social-icons: '[ { "socialName": "twitter", "userName": "elango_sundar"}, { "socialName": "facebook", "userName": "elango_sundar"}, { "socialName": "dev-dot-to", "userName": "elango_sundar"}, { "socialName": "codesandbox", "userName": "elango_sundar"},{ "socialName": "stackoverflow", "userName": "elango_sundar"}, { "socialName": "youtube", "userName": "elango_sundar"}]'
 
 
 
