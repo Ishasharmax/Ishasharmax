@@ -46,6 +46,9 @@ I'm a senior at Ithaca College studying Computer Science.
 
 ### My stats
 
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+
+
 [![Isha's github stats](https://github-readme-stats.vercel.app/api?username=ishasharmax&show_icons=true&theme=dark)](https://github.com/ishasharmax/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishasharmax&layout=compact)](https://github.com/ishasharmax/github-readme-stats)
 
 
