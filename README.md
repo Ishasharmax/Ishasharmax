@@ -14,9 +14,9 @@ I'm a senior at Ithaca College studying Computer Science.
  
 💡 Fields I'm Interested In: Product Mngmt., Data Science, Machine Learning, UX/UI, Full Stack Dev., Mobile Dev.
 
-💻 All of my projects are available at https://github.com/ishasharmax
+💻 All of my projects are available on [GitHub](https://github.com/ishasharmax) 
 
-📝 I regularly write articles on https://ishasharmax.medium.com/
+📝 I regularly write articles on [Medium](https://ishasharmax.medium.com/)
 
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/ishasharmax/) or email me @ 1999sharma19@gmail.com
 
