@@ -46,5 +46,7 @@ I'm a senior at Ithaca College studying Computer Science.
 </a>
   </p>
   
+  [![HitCount](http://hits.dwyl.com/ishasharmax/Generative_Art.svg)](http://hits.dwyl.com/ishasharmax/Generative_Art)
+  
 <img src="web1.png" alt="End image">
 
