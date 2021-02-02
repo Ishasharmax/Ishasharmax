@@ -1,6 +1,6 @@
 ### Hi there, I'm Isha (she/her)
 
-
+<img src="web2.png" alt="Home image">
 
 ![](https://komarev.com/ghpvc/?username=ishasharmax&color=red)
 
@@ -26,48 +26,35 @@ I'm a senior at Ithaca College studying Computer Science.
 
 ### Connect with me:
 
-[![github](https://www.linkedin.com/in/ishasharmax/)][1][![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
 
-<a href="https://www.linkedin.com/in/ishasharmax/">
+<p align="center">
+    <a href="https://www.linkedin.com/in/ishasharmax/">
   <img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="50" height="50"/>
 </a>
-
-<a href="https://dribbble.com/ishasharmax">
-  <img src="https://www.flaticon.com/svg/static/icons/svg/174/174844.svg" width="50" height="50"/>
-</a>
-
-<a href="https://stackoverflow.com/users/12647721/coder101">
+   <a href="https://stackoverflow.com/users/12647721/coder101">
   <img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111628.svg" width="50" height="50"/>
 </a>
-
 <a href="https://twitter.com/ishasharmax">
   <img src="https://www.flaticon.com/svg/static/icons/svg/174/174876.svg" width="50" height="50"/>
 </a>
-
 <a href="https://www.hackerrank.com/ishasharmax?hr_r=1">
   <img src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" width="55" height="55"/>
 </a>
+<a href="https://dribbble.com/ishasharmax">
+  <img src="https://www.flaticon.com/svg/static/icons/svg/174/174844.svg" width="50" height="50"/>
+</a>
+  </p>
+
 
 ### My stats
 
 [![Isha's github stats](https://github-readme-stats.vercel.app/api?username=ishasharmax&show_icons=true&theme=dark)](https://github.com/ishasharmax/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishasharmax&layout=compact)](https://github.com/ishasharmax/github-readme-stats)
 
+<img src="web1.png" alt="End image">
 
 
 
 
-
-
-
-
-<a href="https://ibb.co/1dcH4TV"><img src="https://i.ibb.co/1dcH4TV/Web-1280-1das.png" alt="Web-1280-1das" border="0"></a> 
-
-<a href="https://ibb.co/KhgF26r"><img src="https://i.ibb.co/KhgF26r/Web-1280-1-copy.png" alt="Web-1280-1-copy" border="0"></a>
-
-
-<img src="https://ibb.co/1dcH4TV" alt="Hero image">
-
-<img src="https://ibb.co/KhgF26r" alt="End image">
 
 
 I like experimenting with new technologies, building small projects, and occassionally joining hackathons. ✨
