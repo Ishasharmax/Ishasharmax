@@ -1,5 +1,3 @@
-### Hi there, I'm Isha (she/her)
-
 <img src="webTop.png" alt="Home image">
 
 ![](https://komarev.com/ghpvc/?username=ishasharmax&color=red)
