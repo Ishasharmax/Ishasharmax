@@ -18,7 +18,7 @@
 
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/ishasharmax/) or email me @ 1999sharma19@gmail.com
 
-📄 Know about my experiences through my [resume](https://drive.google.com/file/d/1rk0T6nHqHDE2FqbGsJZ7dtyeB7lbSd8w/view?usp=sharing)
+📄 Know about my experiences through my [resume](https://drive.google.com/file/d/1ZV3Sofl8ii8CeYVWFb7c4bKWcSe6Uv8k/view?usp=sharing)
 
 ### My Skills
 
