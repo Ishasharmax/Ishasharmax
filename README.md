@@ -28,9 +28,7 @@
  <img src="https://i.imgur.com/K9QhQo1.png" width=40px height=40px title="source: imgur.com" /></a>  <a>
  <img src="https://i.imgur.com/t9qP4pO.png" width=40px height=40px title="source: imgur.com" /></a>  <a>
  <img src="https://i.imgur.com/qek0Wu5.png"  width=40px height=40px title="source: imgur.com" /></a> <a>
- <img src="https://i.imgur.com/HAUhZ5J.png"  width=40px height=40px title="source: imgur.com" /></a> <a>
  <img src="https://i.imgur.com/M7g6J8l.png"  width=40px height=40px title="source: imgur.com" /></a> <a>
- <img src="https://i.imgur.com/jITS8FU.png"  width=40px height=40px title="source: imgur.com" /></a>  
 
 ### My stats
 
