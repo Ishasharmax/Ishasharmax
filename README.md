@@ -39,7 +39,6 @@
  
 ### About Me
 🦋  Besides coding, I enjoy creating graphic designs, playing guitar, singing, hiking, camping, yoga, and biking. <br/>
-
 <hr> 
 
 ### My stats
