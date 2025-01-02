@@ -39,7 +39,6 @@
 🦋  Besides coding, I enjoy creating graphic designs, playing guitar, singing, hiking, camping, yoga, and biking. <br/>
 <hr> 
 
-### My stats
   <p align="center"><b>Connect with me</b></p>
    <p align="center">
   <a href="https://linkedin.com/in/ishasharmax" target="_blank"><img width="30px" height="30px" src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  <a href="https://twitter.com/ishasharmax" target="_blank"><img width="30px"  height="30px" src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp; <a href="https://stackoverflow.com/users/12647721/isha"> <img  height="30px" width="30px" src="https://static-00.iconduck.com/assets.00/stack-overflow-icon-2048x2048-7ohycn5z.png" width="50" height="50"/></a>  
