@@ -47,23 +47,12 @@
 <hr>
  
 ### About Me
-🖌️  I make illustrations and graphic designs <br/>
-🎹  I find joy in playing musical instruments such as Piano, Ukulele, and Guitar, and singing<br/>
-🦋  I love exploring, trying new things, and talking to different people <br/>
+🦋  I find joy in playing my acoustic guitar and singing. <br/>
+
 <hr> 
 
-##
-
-<div align="center">
- <img src="https://komarev.com/ghpvc/?username=suryasharma04&style=for-the-badge&color=orange" width="200" />
-</div>
-
 ### My stats
-
-[![Isha's github stats](https://github-readme-stats.vercel.app/api?username=ishasharmax&show_icons=true&theme=dark)](https://github.com/ishasharmax/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishasharmax&layout=compact)](https://github.com/ishasharmax/github-readme-stats)
-
   <p align="center"><b>Connect with me</b></p>
-
    <p align="center">
   <a href="https://linkedin.com/in/ishasharmax" target="_blank"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  <a href="https://twitter.com/ishasharmax" target="_blank"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp; <a href="https://stackoverflow.com/users/12647721/coder101" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111628.svg" width="40" height="40"/> </a> &nbsp; <a href="https://www.hackerrank.com/ishasharmax?hr_r=1"><img src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" width="50" height="50"/></a>  &nbsp;  <a href="https://dribbble.com/ishasharmax">
   <img src="https://www.flaticon.com/svg/static/icons/svg/174/174844.svg" width="38" height="38"/></a>
