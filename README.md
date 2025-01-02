@@ -22,18 +22,9 @@
 
 ### My Skills
 
-<a href="https://imgur.com/gnK58k4"><img src="https://i.imgur.com/gnK58k4.png" width=40px height=40px title="source: imgur.com" /></a> 
-<a><img src="https://i.imgur.com/clwEy83.png" width=40px height=40px title="source: imgur.com" /></a> <a>
- <img src="https://i.imgur.com/FyjNoMz.png" width=40px height=40px title="source: imgur.com" /></a> <a>
- <img src="https://i.imgur.com/K9QhQo1.png" width=40px height=40px title="source: imgur.com" /></a>  <a>
- <img src="https://i.imgur.com/qek0Wu5.png"  width=40px height=40px title="source: imgur.com" /></a> <a>
- <img src="https://i.imgur.com/M7g6J8l.png"  width=40px height=40px title="source: imgur.com" /></a> <a>
- 
- <hr>
 🧰 Languages & Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 <img align="left" alt="Nodejs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
@@ -47,7 +38,7 @@
 <hr>
  
 ### About Me
-🦋  I find joy in playing my acoustic guitar and singing. <br/>
+🦋  Besides coding, I enjoy creating graphic designs, playing guitar, singing, hiking, camping, yoga, and biking. <br/>
 
 <hr> 
 
